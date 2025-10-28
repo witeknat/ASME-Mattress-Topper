@@ -1,0 +1,20 @@
+Prototype 1 Code:
+
+Downloads:
+Arduino
+download libraries- adafruit BusIO, adafruit MLX90614
+
+Install python
+https://www.python.org/downloads
+
+Install pyserial
+https://pypi.org/project/pyserial
+
+Open command prompt on your computer, you need to install a few libraries. Type:
+pip install pyserial
+pip install pandas
+pip install matplotlib
+
+
+
+

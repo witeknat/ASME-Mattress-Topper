@@ -15,6 +15,14 @@ pip install pyserial
 pip install pandas
 pip install matplotlib
 
+To run the code, download the arduino and python file posted. Once arduino is opened, upload and run it but do not open serial monitor. 
+
+Open command prompt and type in:
+cd downloads
+python griddisplay.py
+
+
+
 
 
 
